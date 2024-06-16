@@ -11,6 +11,7 @@ R script used for analysis of short- and mid-term temporal variability of the hu
 
 * [Abstract](#abstract)
 * [File description](#file-description)
+* [Citation](#citation)
 * [References](#references)
 
 ## Abstract
@@ -19,9 +20,11 @@ A pair of catheterized or mid-stream urine specimens were collected from study p
 
 ## File description
 
-Raw sequences together with metadata available at NCBI PRJNA1093489.
-Processed data available at Zenodo.
+Raw sequences together with subject's metadata are available at NCBI ***PRJNA1093489**.
+Processed and unfiltered data are available at figshare  [10.6084/m9.figshare.26046355](https://doi.org/10.6084/m9.figshare.26046355).
 
+## Citation
+Please cite our preprint
 
 ## References
 
