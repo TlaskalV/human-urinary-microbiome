@@ -24,7 +24,7 @@ Raw sequences together with subject's metadata are available at NCBI **PRJNA1093
 Processed and unfiltered data are available at figshare  [10.6084/m9.figshare.26046355](https://doi.org/10.6084/m9.figshare.26046355).
 
 ## Citation
-Please cite our preprint
+Please cite our preprint available at bioRxiv
 
 ## References
 
