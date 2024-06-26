@@ -20,7 +20,7 @@ A pair of catheterized or mid-stream urine specimens were collected from study p
 
 ## File description
 
-Raw sequences together with subject's metadata are available at NCBI ***PRJNA1093489**.
+Raw sequences together with subject's metadata are available at NCBI **PRJNA1093489**.
 Processed and unfiltered data are available at figshare  [10.6084/m9.figshare.26046355](https://doi.org/10.6084/m9.figshare.26046355).
 
 ## Citation
@@ -30,8 +30,17 @@ Please cite our preprint
 
 Wickham, H., Averick, M., Bryan, J., Chang, W., Mcgowan, L.D.A., François, R., Grolemund, G., Hayes, A., Henry, L., Hester, J., Kuhn, M., Lin, T., Miller, E., Bache, S.M., Müller, K., Ooms, J., Robinson, D., Seidel, D.P., Spinu, V., Takahashi, K., Vaughan, D., Wilke, C., Woo, K., 2019. Welcome to the Tidyverse. The Journal of Open Source Software 4, 1686. https://doi.org/10.21105/joss.01686
 
-Oksanen, J., Simpson, G.L., Blanchet, F.G., Kindt, R., Legendre, P., Minchin, P.R., O’Hara, R.B., Solymos, P., Stevens, M.H.H., Szoecs, E., Wagner, H., Barbour, M., Bedward, M., Bolker, B., Borcard, D., Carvalho, G., Chirico, M., De Caceres, M., Durand, S., Evangelista, H.B.A., FitzJohn, R., Friendly, M., Furneaux, B., Hannigan, G., Hill, M.O., Lahti, L., McGlinn, D., Ouellette, M.-H., Ribeiro Cunha, E., Smith, T., Stier, A., Ter Braak, C.J.F., Weedon, J., 2022. vegan: Community ecology package (manual).
+Oksanen, J., Simpson, G.L., Blanchet, F.G., Kindt, R., Legendre, P., Minchin, P.R., O’Hara, R.B., Solymos, P., Stevens, M.H.H., Szoecs, E., Wagner, H., Barbour, M., Bedward, M., Bolker, B., Borcard, D., Carvalho, G., Chirico, M., De Caceres, M., Durand, S., Evangelista, H.B.A., FitzJohn, R., Friendly, M., Furneaux, B., Hannigan, G., Hill, M.O., Lahti, L., McGlinn, D., Ouellette, M.-H., Ribeiro Cunha, E., Smith, T., Stier, A., Ter Braak, C.J.F., Weedon, J., 2022. vegan: Community ecology package.
 
-Elbers, B., 2020. tidylog: Logging for “dplyr” and “tidyr” Functions (manual).
+Elbers, B., 2020. tidylog: Logging for “dplyr” and “tidyr” Functions.
 
-Wickham, H., Bryan, J., 2023. readxl: Read excel files (manual).
+Wickham, H., Bryan, J., 2023. readxl: Read excel files.
+
+de Mendiburu, F., 2017. Agricolae: Statistical procedures for agricultural research. R package version 1.2-4.
+
+Chen, J., Zhang, X., Yang, L., Zhang, L., 2023. GUniFrac: Generalized UniFrac distances, distance-based multivariate methods and feature-based univariate methods for microbiome data analysis (manual).
+
+Hope, R.M., 2022. Rmisc: Ryan miscellaneous.
+
+Quensen, J., 2020. QsRutils: R functions useful for community ecology.
+
